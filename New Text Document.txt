@@ -1,0 +1,98 @@
+text,intent
+"Can you read this text?",Read command
+"Please read the following paragraph.",Read command
+"Read the text on the screen.",Read command
+"I need you to read this document.",Read command
+"Read the contents of this file.",Read command
+"Read aloud this sentence.",Read command
+"Read this message for me.",Read command
+"Can you read the displayed information?",Read command
+"Please read the instructions.",Read command
+"Read the highlighted text.",Read command
+"Read this out loud.",Read command
+"Could you read the menu for me?",Read command
+"Please read the book title.",Read command
+"Read the numbers on this page.",Read command
+"Can you read the email?",Read command
+"Read the announcement.",Read command
+"Read the caption below the picture.",Read command
+"Please read the recipe steps.",Read command
+"Read the labels on these jars.",Read command
+"Can you read the contract?",Read command
+"Can you read the small print?",Read command
+"Please read the serial number on the device.",Read command
+"Read the terms and conditions.",Read command
+"Can you read the text in the image?",Read command
+"Read the paragraph in the book.",Read command
+"Read the signpost for me.",Read command
+"Please read the following text.",Read command
+"Can you read the message on my phone?",Read command
+"Read the instructions for me.",Read command
+"Can you read the title on the cover?",Read command
+"Read the contents of this paper.",Read command
+"Please read the article aloud.",Read command
+"Read the print on this label.",Read command
+"Can you read the speech bubble?",Read command
+"Read the name on this tag.",Read command
+"Read the data on the screen.",Read command
+"Can you read the notification?",Read command
+"Read the first paragraph.",Read command
+"Read the second line for me.",Read command
+"Can you read the description?",Read command
+"I want to detect objects in the image.",Object detection
+"Can you identify the objects in this photo?",Object detection
+"Detect objects in the video.",Object detection
+"Use object detection to find items in the picture.",Object detection
+"Identify all the objects in the scene.",Object detection
+"Detect the objects present in this frame.",Object detection
+"Run object detection on this image.",Object detection
+"Use object detection to recognize items.",Object detection
+"Find objects in this image using detection.",Object detection
+"Use object detection to locate items in the picture.",Object detection
+"Can you tell me what objects are in front of me?",Object detection
+"What items can you detect in this room?",Object detection
+"Identify the objects on the table.",Object detection
+"Detect any objects in this snapshot.",Object detection
+"What is kept in front of me?",Object detection
+"Use object detection to find out what's in this area.",Object detection
+"Can you see the objects in this environment?",Object detection
+"What objects can be detected in this view?",Object detection
+"Please detect the objects in this setup.",Object detection
+"Use detection to identify items in the space.",Object detection
+"Can you identify the items on the desk?",Object detection
+"Detect the items in this picture.",Object detection
+"What are the objects on the shelf?",Object detection
+"Can you detect objects in this image?",Object detection
+"Identify the objects in this frame.",Object detection
+"What is that item on the floor?",Object detection
+"Can you identify the objects around me?",Object detection
+"What objects are present in this photo?",Object detection
+"Can you tell what items are visible?",Object detection
+"Use object detection for this scene.",Object detection
+"Identify the objects in this photo.",Object detection
+"Detect the items in the background.",Object detection
+"Can you identify the utensils on the table?",Object detection
+"What utensils are visible in this image?",Object detection
+"Can you detect symbols in this picture?",Object detection
+"What symbols can you see here?",Object detection
+"Use object detection to find symbols.",Object detection
+"Detect the utensils in the kitchen.",Object detection
+"Identify the tools in the workshop.",Object detection
+"Can you find the objects in this room?",Object detection
+"Detect the items in the classroom.",Object detection
+"What objects are on the counter?",Object detection
+"Can you see the objects in this office?",Object detection
+"Identify the items in this setup.",Object detection
+"Detect the objects in this lab.",Object detection
+"Use object detection in this garden.",Object detection
+"Find the items in the living room.",Object detection
+"What are the objects in this workspace?",Object detection
+"Identify the objects in the warehouse.",Object detection
+"Can you detect objects in this environment?",Object detection
+"Identify the items in the image.",Object detection
+"Detect the objects on the bed.",Object detection
+"Find the items in the store.",Object detection
+"Can you identify the objects on the floor?",Object detection
+"What are the objects in this picture?",Object detection
+"Detect any items in the photo.",Object detection
+"Identify the objects in this snapshot.",Object detection
